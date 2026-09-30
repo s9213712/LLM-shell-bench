@@ -1,0 +1,5 @@
+*_results.json
+*.log
+__pycache__/
+.cache/
+*.pyc
